@@ -60,6 +60,8 @@ const MainPage = () => {
 
 
     return (
+
+        
         <div className="flex h-screen bg-gray-100">
             {/* Sidebar */}
             <aside className="w-64 bg-blue-900 text-white p-4 flex flex-col">
